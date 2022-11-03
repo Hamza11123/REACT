@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Mark Johnson",
+            "title": "Five covid questions scientists still can't answer - The Washington Post",
+            "description": "Unlocking these secrets might arm us with new strategies to protect ourselves and stop the next pandemic.",
+            "url": "https://www.washingtonpost.com/health/2022/09/26/covid-questions-variants-long-covid/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJIYDVRTHII63IGWIFJJTP7L2U.jpg&w=1440",
+            "publishedAt": "2022-09-26T14:00:00Z",
+            "content": "Since a new coronavirus launched the global pandemic that has now killed more than 6.5 million people 16 percent of them in the United States alone scientists in record numbers have devoted themselve… [+16443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "These scientists traced a new coronavirus lineage to one office — through sewage - Nature.com",
+            "description": "Researchers are hunting through waste water for heavily mutated SARS-CoV-2 variants that could be the next Omicron.",
+            "url": "https://www.nature.com/articles/d41586-022-02996-y",
+            "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-022-02996-y/d41586-022-02996-y_23530044.jpg",
+            "publishedAt": "2022-09-26T12:15:54Z",
+            "content": "Virologist Dave OConnor admits that he was getting desperate when he started asking dog owners for poo samples.\r\nFor much of 2022, OConnor, at the University of WisconsinMadison, and his colleagues h… [+11164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Scientists: Eat More of This Carb – Even Supplements Make a Big Difference - SciTechDaily",
+            "description": "The human gut evolved to thrive on fermentable fibers, not burgers. It might be daunting for customers to choose from the vast selection of dietary fiber supplements in the pharmacy or supermarket aisle. They also offer a variety of health claims without bein…",
+            "url": "https://scitechdaily.com/scientists-eat-more-of-this-carb-even-supplements-make-a-big-difference/",
+            "urlToImage": "https://scitechdaily.com/images/High-Fiber-Food-Choices.jpg",
+            "publishedAt": "2022-09-26T03:32:15Z",
+            "content": "ByDuke UniversitySeptember 25, 2022\r\nHigh-fiber food choices include bananas, whole wheat bread, apples, and broccoli.\r\nThe human gut evolved to thrive on fermentable fibers, not burgers.\r\nIt might b… [+5750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "David Axe",
+            "title": "New Discovery Can Kill COVID With 'Hugs'—but There's a Catch - The Daily Beast",
+            "description": "A global team of scientists has found a molecule that can essentially “squeeze” the COVID virus to death. But can we get it to work on humans?",
+            "url": "https://www.thedailybeast.com/scientists-identify-molecule-that-can-kill-covid-with-hugs-but-theres-a-catch",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1664144621/220925-covid-hug-tease_tyspwa",
+            "publishedAt": "2022-09-26T00:00:20Z",
+            "content": "Scientists have identified a molecule that just loves SARS-CoV-2, the virus that causes COVID-19. It loves it so much that it hugs it, practically to deathbinding so tightly to the virus that the vir… [+5880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SlashGear"
+            },
+            "author": "Nadeem Sarwar",
+            "title": "Scientists Find An Astonishing Fat Burning Exercise Perfect For Desk Workers - SlashGear",
+            "description": "A technique called Soleus Pushup can ramp up metabolism with minimal physical effort for those who lead sedentary lifestyles.",
+            "url": "https://www.slashgear.com/1024287/scientists-find-an-astonishing-fat-burning-exercise-perfect-for-desk-workers/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/scientists-find-an-astonishing-fat-burning-exercise-perfect-for-desk-workers/l-intro-1664121675.jpg",
+            "publishedAt": "2022-09-25T16:01:00Z",
+            "content": "During the SPU tests, it was found that the method led to a 52% higher blood sugar driveout while insulin requirement was lowered by 60% simultaneously after ingesting a glucose drink (via University… [+1162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Futurism"
+            },
+            "author": "Frank Landymore",
+            "title": "Virus Modified to Kill Cancer Cells Appears to Have Saved a Patient's Life - Futurism",
+            "description": "Scientists in the UK conducted a trial of an experimental cancer therapy that uses the cold sore virus to make cancer cells explode.",
+            "url": "https://futurism.com/neoscope/virus-modified-kill-cancer-cells",
+            "urlToImage": "https://wp-assets.futurism.com/2022/09/virus-modified-kill-cancer-cells.jpg",
+            "publishedAt": "2022-09-25T14:03:52Z",
+            "content": "Cancers and viruses: why not pit two of our biggest biological foes against each other?\r\nScientists at the Institute of Cancer Research and the Royal Marsden NHS Foundation Trust used a drug made fro… [+2185 chars]"
+        }
+    ]
+}
